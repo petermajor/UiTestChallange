@@ -1,0 +1,34 @@
+PODS:
+  - Cucumberish (1.3.0)
+  - Http.swift (2.2.1):
+    - Socket.swift (~> 2.3)
+  - Resolver (1.1.2)
+  - SDWebImage (5.7.3):
+    - SDWebImage/Core (= 5.7.3)
+  - SDWebImage/Core (5.7.3)
+  - Socket.swift (2.4.0)
+
+DEPENDENCIES:
+  - Cucumberish (~> 1.3.0)
+  - Http.swift (~> 2.2.0)
+  - Resolver (~> 1.1.0)
+  - SDWebImage (~> 5.7.0)
+
+SPEC REPOS:
+  trunk:
+    - Cucumberish
+    - Http.swift
+    - Resolver
+    - SDWebImage
+    - Socket.swift
+
+SPEC CHECKSUMS:
+  Cucumberish: 76f542be7b62b1a01ebc6f968be3e002f9403931
+  Http.swift: b65e9385e0bb3a4ff6b3b80e2952a615e124ecbd
+  Resolver: e04ca5a9a19906f2e5cdceb2b90edd3b5daed049
+  SDWebImage: 97351f6582ceca541ea294ba66a1fcb342a331c2
+  Socket.swift: 4af9137d6b2d2dec00efd8b007704d0af3c3f27a
+
+PODFILE CHECKSUM: 2367dd3c7ea66e3d5f910db033a2def8369ffd4f
+
+COCOAPODS: 1.8.4
